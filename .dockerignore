@@ -1,0 +1,46 @@
+# Dependencies
+node_modules
+
+# Build outputs
+dist
+build
+
+# Environment files
+.env
+.env.local
+.env.production.local
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+
+# IDE and editor files
+.idea
+.vscode
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Git files
+.git
+.gitignore
+
+# Testing
+coverage
+
+# Package lock files
+package-lock.json
+yarn.lock
+
+# Docker files (optional - uncomment if you want to exclude them)
+# Dockerfile
+# docker-compose.yml
+# .dockerignore
+
+# OS generated files
+Thumbs.db
