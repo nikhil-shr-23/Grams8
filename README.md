@@ -1,13 +1,13 @@
 <p align="center">
   <div style="display: inline-flex; align-items: center; background: #3b82f6; color: white; padding: 8px 16px; border-radius: 8px; font-size: 1.5em; font-weight: bold;">
-    g8
+    g8 :)
   </div>
   <span style="font-size: 2em; font-weight: bold; vertical-align: middle; margin-left: 10px;">grams8</span>
 </p>
 
 <p align="center">
   <strong>Free Visual Database Design Tool</strong><br>
-  <em>by Nikhil Sharma</em>
+
 </p>
 
 grams8 is a free, powerful database design tool that allows you to visualize your database schema with an intuitive drag-and-drop editor. Create, edit, and export your database designs to various formats, including SQL, DBML, JSON, and SVG. Generate migration files for popular frameworks/ORM like Laravel, TypeORM, and Django.
